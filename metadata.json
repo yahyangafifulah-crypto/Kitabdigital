@@ -1,0 +1,6 @@
+{
+  "name": "Kitab Digital",
+  "description": "Aplikasi Kitab Digital Al-Quran, Terjemahan, Hadits Arbain Nawawi, dan Penjelasan Asisten Tafsir berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
